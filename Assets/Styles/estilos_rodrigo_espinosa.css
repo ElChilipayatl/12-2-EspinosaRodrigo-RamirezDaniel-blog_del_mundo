@@ -75,3 +75,18 @@ section>header {
     /* esta sección se extenderá 12 columnas. */
     grid-column: span 12;
 }
+
+section>main {
+    /* esta sección se extenderá 12 columnas. */
+    grid-column: span 8;
+}
+
+section>aside {
+    /* esta sección se extenderá 12 columnas. */
+    grid-column: span 4;
+}
+
+section>footer {
+    /* esta sección se extenderá 12 columnas. */
+    grid-column: span 12;
+}
