@@ -24,10 +24,12 @@ nav>ul>li>.resaltado{
 
 nav>ul>li>a{
     text-decoration: none;
+    color: #FFFFFF;
 }
 
 nav>ul>li {
     list-style: none;
+
 }
 
 #titulo_del_blog {
@@ -93,4 +95,8 @@ section>footer {
 
 .alado {
     color: #FFFFFF;
+}
+
+nav {
+    font-size: 1.3rem;
 }
