@@ -22,6 +22,8 @@ nav>ul>li>.resaltado{
 
 }
 
+
+/* CHECARSI ESTÁ BIEN */
 nav>ul>li>a{
     text-decoration: none;
     color: #FFFFFF;
@@ -100,3 +102,13 @@ section>footer {
 nav {
     font-size: 1.3rem;
 }
+
+
+/* CHECARSI ESTÁ BIEN */
+nav>ul>li>a{
+
+    text-decoration: underline;
+    color: greenyellow;
+
+}
+
