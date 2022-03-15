@@ -112,3 +112,13 @@ nav>ul>li>a{
 
 }
 
+nav>ul {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 0.5rem;
+
+}
+
