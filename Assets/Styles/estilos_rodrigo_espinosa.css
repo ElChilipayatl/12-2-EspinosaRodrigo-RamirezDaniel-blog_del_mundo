@@ -109,9 +109,6 @@ section>footer {
     grid-column: span 12;
 }
 
-.alado {
-    color: #FFFFFF;
-}
 
 nav {
     font-size: 1.3rem;
@@ -156,4 +153,57 @@ article>header>hgroup>h2>img {
     margin-right: 1rem;
 
 }
+
+aside {
+
+    color: #FFFFFF;
+
+}
+
+aside>h2{
+
+    text-align: center;
+    font-size: 1.3rem;
+
+}
+
+aside>div:nth-last-of-type(even){
+
+    background-color: rgb(44, 43, 43);
+
+}
+
+aside>div>img{
+
+    background-color: #fff;
+    padding: 0.5rem;
+    border-radius: 60%;
+
+}
+
+.tarjeta{
+
+    background-color: grey;
+    width: 350px;
+    padding: 1.5rem;
+    border-bottom: 2px dashed white;
+
+}
+
+.info {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.info2 {
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+
+}
+ 
 
