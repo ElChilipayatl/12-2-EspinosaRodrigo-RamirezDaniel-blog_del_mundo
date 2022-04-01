@@ -151,6 +151,7 @@ article>header>hgroup>h2 {
 article>header>hgroup>h2>img {
 
     margin-right: 1rem;
+    
 
 }
 
@@ -176,8 +177,9 @@ aside>div:nth-last-of-type(even){
 aside>div>img{
 
     background-color: #fff;
-    padding: 0.5rem;
+    padding: 1rem;
     border-radius: 60%;
+    margin-right: 1rem;
 
 }
 
